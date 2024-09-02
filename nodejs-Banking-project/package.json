@@ -1,0 +1,14 @@
+{
+  "name": "banking-app",
+  "version": "1.0.0",
+  "description": "this is sample project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "android" : "2.0.0"
+  },
+  "author": "arati sonalekar",
+  "license": "ISC"
+}
